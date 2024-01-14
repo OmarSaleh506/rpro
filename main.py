@@ -1,2 +1,2 @@
 # Y device
-print("omar")
+print("Omar")
